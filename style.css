@@ -9,7 +9,7 @@ html {
 }
 
 
-button{
+#mudar-Tema-de-fundo{
     margin-left:130px;
 }
 
@@ -17,4 +17,6 @@ body{
     background-color:red;
 }
 
-
+details{
+    color:yellow;
+}
