@@ -2,3 +2,19 @@ html {
   height: 100%;
   width: 100%;
 }
+.fundo-com-mar {
+    background: lightblue 
+    no-repeat fixed center; 
+    
+}
+
+
+button{
+    margin-left:130px;
+}
+
+body{
+    background-color:red;
+}
+
+
