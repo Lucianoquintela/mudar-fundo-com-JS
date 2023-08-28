@@ -4,7 +4,7 @@ const body = document.querySelector("body");
 
 botalAlterarTema.addEventListener("click",()=>{
    
-/*const modoFundoComMarEstarAtivo = body.classList.contains("fundo-com-mar");
+const modoFundoComMarEstarAtivo = body.classList.contains("fundo-com-mar");
  
 if(modoFundoComMarEstarAtivo){
     body.classList.remove("fundo-com-mar");
@@ -12,4 +12,4 @@ if(modoFundoComMarEstarAtivo){
     body.classList.add("fundo-com-mar")
 }
 
-});*/
+});
